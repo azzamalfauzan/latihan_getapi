@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../flutter_get_api/flutter_get/android/app/src/main/kotlin/com/example/flutter_get"
+		}
+	]
+}
